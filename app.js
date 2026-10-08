@@ -19,7 +19,7 @@
  */
 
 // Pre-commit cache-buster auto-bumps BUILD and every ?v= on any web-asset change.
-const BUILD = 'v1';
+const BUILD = 'v2';
 
 // --------------------------- UUIDs (Web Bluetooth wants full lowercase 128-bit form) ---------------------------
 const uuid16 = (h) => '0000' + String(h).toLowerCase() + '-0000-1000-8000-00805f9b34fb';
