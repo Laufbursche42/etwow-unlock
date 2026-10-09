@@ -121,7 +121,6 @@ window.I18N = {
     warnLock: 'Das sperrt den Roller (Immobilizer, Opcode 0x05). Entsperren geht nur wieder über Bluetooth.',
     warnUnlock: 'Das hebt die Sperre auf.',
     warnOdoReset: 'Das setzt den Gesamt-Kilometerzähler dauerhaft zurück. Das lässt sich nicht rückgängig machen.',
-    disclaimerText: 'Dieses Werkzeug ist eine Machbarkeitsstudie, kein fertiges Produkt. Es gibt keine Gewährleistung und keine Zusicherung fehlerfreien Betriebs. Das Aufheben des Tempolimits hebt die Drossel auf: die ABE erlischt und der Betrieb auf öffentlichen Wegen ist dann nicht erlaubt. Nutze es nur am eigenen Fahrzeug und auf eigenes Risiko. Die Seite spricht nur lokal über Bluetooth mit dem Gerät, es werden keine Daten an einen Server gesendet. ETWOW ist eine Marke des jeweiligen Inhabers. Dieses Projekt ist unabhängig und steht in keiner Verbindung zu E-TWOW oder Uscooters.',
 
     errNoWebBt: 'Dieser Browser hat kein Web Bluetooth. Nutze Chrome, Edge oder Bluefy (iOS).',
     errNotConnected: 'nicht verbunden',
@@ -252,7 +251,6 @@ window.I18N = {
     warnLock: 'This locks the scooter (immobilizer, opcode 0x05). It can only be unlocked again over Bluetooth.',
     warnUnlock: 'This releases the lock.',
     warnOdoReset: 'This permanently resets the total odometer. It cannot be undone.',
-    disclaimerText: 'This tool is a feasibility study, not a finished product. There is no warranty and no guarantee of error-free operation. Removing the speed limit removes the throttle: the type approval becomes void and riding on public roads is then not allowed. Use it only on your own vehicle and at your own risk. The page talks to the device locally over Bluetooth only, no data is sent to any server. ETWOW is a trademark of its respective owner. This project is independent and not affiliated with E-TWOW or Uscooters.',
 
     errNoWebBt: 'This browser has no Web Bluetooth. Use Chrome, Edge or Bluefy (iOS).',
     errNotConnected: 'not connected',
